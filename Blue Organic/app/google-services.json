@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "247701875270",
+    "firebase_url": "https://blueorgnic.firebaseio.com",
+    "project_id": "blueorgnic",
+    "storage_bucket": "blueorgnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247701875270:android:50dadb2a9d65a826",
+        "android_client_info": {
+          "package_name": "com.example.stav.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247701875270-gvec6pas27a0it3926och5ot1763la4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stav.login",
+            "certificate_hash": "35fa75525a69787424e00ae85ffd84b05ca0edde"
+          }
+        },
+        {
+          "client_id": "247701875270-c2fbrj33102kch0j7leplvvntfo8n3eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlOheiWLqQfaylkDYtz60HojxI_eGB5hE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247701875270-c2fbrj33102kch0j7leplvvntfo8n3eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
